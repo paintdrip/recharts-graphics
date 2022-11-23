@@ -8,23 +8,40 @@ const data = [
         pv: 0,
         amt: -50,
     },
+
     {
-        xName: 5,
+        xName: 3,
         pv: -5,
         amt: 0,
     },
+
     {
-        xName: 10,
+        xName: 6,
+        pv: 6,
+        amt: 0,
+    },
+    {
+        xName: 9,
         pv: 35,
         amt: 50,
     },
     {
-        xName: 15,
-        pv: 130,
+        xName: 12,
+        pv: 75,
         amt: 100,
     },
     {
-        xName: 20,
+        xName: 15,
+        pv: 135,
+        amt: 300,
+    },
+    {
+        xName: 18,
+        pv: 200,
+        amt: 300,
+    },
+    {
+        xName: 21,
         pv: 275,
         amt: 300,
     },
