@@ -4,7 +4,7 @@ import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Responsi
 
 const data = [
     {
-        xName: 0,
+        xName: 1,
         pv: 0,
         amt: -50,
     },

@@ -4,13 +4,23 @@ import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Responsi
 
 const data = [
     {
-        xName: 0,
+        xName: 1,
         pv: 0.5,
         amt: 0,
     },
     {
-        xName: 2.5,
-        pv: 0-4,
+        xName: 2,
+        pv: -1,
+        amt: 0,
+    },
+    {
+        xName: 3,
+        pv: -3.95,
+        amt: 0,
+    },
+    {
+        xName: 4,
+        pv: -1,
         amt: 0,
     },
     {
@@ -19,33 +29,78 @@ const data = [
         amt: 0,
     },
     {
-        xName: 7.5,
-        pv: 0.3,
+        xName: 6,
+        pv: 0.1,
+        amt: 0,
+    },
+    {
+        xName: 7,
+        pv: 0.35,
+        amt: 0,
+    },
+    {
+        xName: 8,
+        pv: -0.5,
+        amt: 0,
+    },
+    {
+        xName: 9,
+        pv: -3.7,
         amt: 0,
     },
     {
         xName: 10,
-        pv: 0-3.6,
+        pv: -3,
         amt: 0,
     },
     {
-        xName: 12.5,
+        xName: 11,
         pv: 0.3,
+        amt: 0,
+    },
+    {
+        xName: 12,
+        pv: 0.2,
+        amt: 0,
+    },
+    {
+        xName: 13,
+        pv: 0.15,
+        amt: 0,
+    },
+    {
+        xName: 14,
+        pv: 0.45,
         amt: 0,
     },
     {
         xName: 15,
-        pv: 0.6,
+        pv: -2.7,
         amt: 0,
     },
     {
-        xName: 17.5,
-        pv: 0-3.7,
+        xName: 16,
+        pv: -3.85,
+        amt: 0,
+    },
+    {
+        xName: 17,
+        pv: -2,
+        amt: 0,
+    },
+    {
+        xName: 18,
+        pv: 0.5,
+        amt: 0,
+    },
+    {
+        xName: 19,
+        pv: 0,
         amt: 0,
     },
     {
         xName: 20,
-        pv: 0.3,
+        pv: 0.5,
         amt: 0,
     },
 ];

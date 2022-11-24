@@ -24,17 +24,17 @@ const data = [
         amt: 0,
     },
     {
-        xName: 2.65,
+        xName: 2.45,
         pv: 3.4,
         amt: 50,
     },
     {
-        xName: 3.31,
+        xName: 2.50,
         pv: 3,
         amt: 50,
     },
     {
-        xName: 3.99,
+        xName: 2.65,
         pv: 0,
         amt: 50,
     },

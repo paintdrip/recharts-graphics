@@ -9,18 +9,98 @@ const data = [
         amt: 0,
     },
     {
+        xName: 1,
+        pv: 0,
+        amt: 0,
+    },
+    {
+        xName: 2,
+        pv: 120,
+        amt: 0,
+    },
+    {
+        xName: 3,
+        pv: 250,
+        amt: 0,
+    },
+    {
+        xName: 4,
+        pv: 380,
+        amt: 0,
+    },
+    {
         xName: 5,
         pv: 500,
         amt: 0,
     },
     {
+        xName: 6,
+        pv: 650,
+        amt: 0,
+    },
+    {
+        xName: 7,
+        pv: 850,
+        amt: 0,
+    },
+    {
+        xName: 8,
+        pv: 1100,
+        amt: 0,
+    },
+    {
+        xName: 9,
+        pv: 1450,
+        amt: 0,
+    },
+    {
         xName: 10,
-        pv: 1750,
+        pv: 1800,
+        amt: 50,
+    },
+    {
+        xName: 11,
+        pv: 2200,
+        amt: 50,
+    },
+    {
+        xName: 12,
+        pv: 2500,
+        amt: 50,
+    },
+    {
+        xName: 13,
+        pv: 2700,
+        amt: 50,
+    },
+    {
+        xName: 14,
+        pv: 2900,
         amt: 50,
     },
     {
         xName: 15,
+        pv: 3050,
+        amt: 100,
+    },
+    {
+        xName: 16,
         pv: 3200,
+        amt: 100,
+    },
+    {
+        xName: 17,
+        pv: 3030,
+        amt: 100,
+    },
+    {
+        xName: 18,
+        pv: 2500,
+        amt: 100,
+    },
+    {
+        xName: 19,
+        pv: 1500,
         amt: 100,
     },
     {
@@ -32,7 +112,7 @@ const data = [
 
 function App() {
     return (
-        <ResponsiveContainer width="30%" aspect={0.7}>
+        <ResponsiveContainer width="35%" aspect={0.7}>
             <LineChart
                 width={500}
                 height={300}

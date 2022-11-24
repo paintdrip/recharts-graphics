@@ -9,18 +9,78 @@ const data = [
         amt: 2400,
     },
     {
-        name: 5,
+        name: 1,
         pv: 50,
         amt: 2210,
     },
     {
-        name: 10,
-        pv: 120,
+        name: 2,
+        pv: 60,
         amt: 2290,
     },
     {
+        name: 3,
+        pv: 75,
+        amt: 2000,
+    },
+    {
+        name: 4,
+        pv: 95,
+        amt: 2000,
+    },
+    {
+        name: 5,
+        pv: 120,
+        amt: 2000,
+    },
+    {
+        name: 6,
+        pv: 135,
+        amt: 2000,
+    },
+    {
+        name: 7,
+        pv: 145,
+        amt: 2000,
+    },
+    {
+        name: 8,
+        pv: 155,
+        amt: 2000,
+    },
+    {
+        name: 9,
+        pv: 165,
+        amt: 2000,
+    },
+    {
+        name: 10,
+        pv: 175,
+        amt: 2000,
+    },
+    {
+        name: 11,
+        pv: 185,
+        amt: 2000,
+    },
+    {
+        name: 12,
+        pv: 195,
+        amt: 2000,
+    },
+    {
+        name: 13,
+        pv: 205,
+        amt: 2000,
+    },
+    {
+        name: 14,
+        pv: 215,
+        amt: 2000,
+    },
+    {
         name: 15,
-        pv: 250,
+        pv: 225,
         amt: 2000,
     },
 ];
